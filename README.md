@@ -20,4 +20,4 @@
  
 ## :computer: Running:
 
-1 - Just download the project and open it using any IDE or click here.
+1 - Just download the project and open it using any IDE.
