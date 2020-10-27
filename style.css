@@ -17,7 +17,7 @@ body {
 
 .title {
     font-family: 'Pacifico', cursive;
-    padding: 50px 0;
+    padding: 25px 0 15px 0;
     font-size: 34px;
     color: #ff00bf;
     text-align: center;
@@ -25,18 +25,18 @@ body {
 }
 
 .memory-game {
-    height: 640px;
-    width: 640px;
+    height: 740px;
+    width: 740px;
     margin: auto;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     perspective: 1000px;
     /* perspectiva do usuario no eixo z, quanto maior, maior o efeito da perspectiva */
 }
 
 .card {
-    height: calc( 33.333% - 10px);
-    width: calc(25% - 10px);
+    height: calc( 31% - 50px);
+    width: calc(25% - 50px);
     margin: 5px;
     position: relative;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
